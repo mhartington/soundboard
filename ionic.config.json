@@ -1,0 +1,7 @@
+{
+  "name": "soundboard",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
