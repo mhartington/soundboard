@@ -37,6 +37,7 @@ const Home: React.FC = () => {
         <IonButton onClick={() => playAudio('Crowd-Applause-2.mp3')}>
           Clap
         </IonButton>
+        <IonButton onClick={() => playAudio('wow.m4a')}>Wow</IonButton>
         <IonButton onClick={() => playAudio('Crowd-Boo.mp3')}>Boo</IonButton>
         <IonButton onClick={() => playAudio('Crowd-Laughter-3.mp3')}>
           Laughter
